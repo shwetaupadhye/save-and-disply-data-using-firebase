@@ -1,0 +1,30 @@
+table, td, th {  
+    border: 1px solid #ddd;
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+    border-bottom: 1px solid rgb(20, 2, 2);
+  }
+  .th{
+      text-align: center;
+      color: tomato;
+  }
+  tr{
+      padding: 5px;
+      
+      text-align: center;
+  }
+  
+
+h2{
+    color: purple;
+    text-align: center;
+    text-shadow: 1px;
+}
